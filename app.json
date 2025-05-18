@@ -23,12 +23,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "7773692155:AAGVRclk7is2Sj-0f2QuGk2uhTI7LbzCA3A",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "7044382449",
+        "value": "6903701350",
         "required": true
       },
       "SESSION": {
